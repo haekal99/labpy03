@@ -1,10 +1,11 @@
 # tugas 3
  _**Penjelasan Latihan1**_
  1. Masukkan nilai input. Nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukkan nilai berapa saja.
- 2. menggunakan perpaduan antara while dan for dengan menggunakan fungsi random secara otomatis dapat menampilkan angka dibawah 0,5 secara random (acak)
- 3. Setelah mamasukkan nilai , akan menghasilkan output bilangan secara random dalam bentuk float, contoh hasilnya seperti gambar di bawah:
+ 2. Gunakan fungsi random untuk mengembalikan bilangan random
+ 3. Jika ingin menentukan batas bilangan gunakan fungsi uniform(x,y) yaitu untuk menampilkan bilangan float random dengan x itu batas awal dan y itu batas akhir. (Misal : batas awal 0 dan batas akhir 0.5)
+ 4. Setelah mamasukkan nilai , akan menghasilkan output bilangan secara random dalam bentuk float, contoh hasilnya seperti gambar di bawah:
 
-![latihan 1](https://user-images.githubusercontent.com/56957271/68392783-26c29100-019d-11ea-8cc1-edabd19c1bc4.JPG)
+![latihan 1 ](https://user-images.githubusercontent.com/56957271/68447765-aa1ec980-0213-11ea-83e2-d681d313dee5.JPG)
 
 _**Penjelasan latihan2**_
  1. anda akan diminta masukan bilangan
